@@ -1,1 +1,1 @@
-# LinguaLinker-Connecting-English-and-Japanese-seamlessly
+# LinguaLinker: Connecting English and Japanese seamlessly
